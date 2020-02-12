@@ -1,4 +1,4 @@
-#o programa calcula a area de uma circunferencia
+#O programa calcula a area de uma circunferencia
 
 from math import pi
 
