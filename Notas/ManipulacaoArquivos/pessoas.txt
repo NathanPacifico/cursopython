@@ -1,0 +1,6 @@
+Nome: Nathan, Idade: 21
+Nome: Esquerdo, Idade: 24
+Nome: Silmara, Idade: 35
+Nome: Alexandre, Idade: 45
+Nome: Alex, Idade: 50
+Nome: Hudson, Idade: 33
